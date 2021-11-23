@@ -32,6 +32,8 @@ error_reporting(0);
     <link rel="stylesheet" type="text/css" href="<?php echo $root; ?>assets/css/style.css">
 
     <title>Login Form</title>
+    <link rel="shortcut icon" href="assets/images/favicon.ico" type="image/x-icon">
+    <link rel="icon" href="/favicon.ico" type="image/x-icon">
 </head>
 
 <body>
