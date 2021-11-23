@@ -1,7 +1,13 @@
-# dashboard-template
+# **Dashboard-Template**  
+ <br>
 
-# Login Form
+> # **Login Form**
 ![login-form](./assets/images/login-form.png)
 
-# Dashboard Main Template
+---  
+
+<br>
+<br>
+
+> # **Dashboard Main Template**
 ![dashboard-main](./assets/images/dashboard.png)
